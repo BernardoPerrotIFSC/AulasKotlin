@@ -1,4 +1,4 @@
-class Curso(n:String){
+class Curso(nome:String){
 
     var nome=nome
     set(value){
